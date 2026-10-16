@@ -8,7 +8,7 @@ The program uses digital output pins and bitwise operations to cycle through dec
 
 * Objective: Design and simulate a 4-bit binary LED counter where each LED represents a bit in a 16-second loop cycle.
 * Core Functionality: Utilizes bitwise right-shifts (`>>`) and bitwise AND (`&`) operations to continuously reflect state transitions on digital output pins.
-* Simulation Tool: [Wokwi Embedded Systems Simulator](https://wokwi.com.
+* Simulation Tool: [Wokwi Embedded Systems Simulator](https://wokwi.com).
 
 ---
 ## Live Simulation
